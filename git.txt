@@ -1,0 +1,5 @@
+Git is a free and open-source version control system, originally created by Linus Torvalds in 2005
+Git also has excellent support for branching, merging, and rewriting repository history, which has led to many innovative and powerful workflows and tools
+Git operates on the principle of creating snapshots or "commits" of your code at different stages, allowing you to revert to previous versions if needed
+
+
